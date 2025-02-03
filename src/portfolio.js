@@ -25,8 +25,8 @@ const greeting = {
   subTitle:
     "Full Stack Developer with expertise in Flutter and the MERN stack (MongoDB, Express.js, React.js, Node.js). Passionate about creating scalable, high-performance applications while constantly learning and exploring new technologies to deliver innovative and impactful solutions.",
   resumeLink:
-    "https://drive.google.com/file/d/1pVpXPb2bUSlbfiXE47ZM8J_cDSuwVh70/view?usp=drive_link",
-  portfolio_repository: "https://github.com/SyedHaris2",
+    "https://drive.google.com/file/d/1qvwH1Nbogmsa5X3hB0lKrMfN0zNFff4d/view?usp=drive_link",
+  portfolio_repository: "https://github.com/SyedHaris2/SyedHaris2.github.io",
   githubProfile: "https://github.com/SyedHaris2/",
 };
 
@@ -576,7 +576,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create MERN and Flutter projects and deploy them using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
