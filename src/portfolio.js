@@ -23,9 +23,9 @@ const greeting = {
   logo_name: "Syed Haris",
   // nickname: "layman_brother",
   subTitle:
-    "Full Stack Developer with expertise in Flutter and the MERN stack (MongoDB, Express.js, React.js, Node.js). Passionate about creating scalable, high-performance applications while constantly learning and exploring new technologies to deliver innovative and impactful solutions.",
-  resumeLink:
-    "https://drive.google.com/file/d/1qvwH1Nbogmsa5X3hB0lKrMfN0zNFff4d/view?usp=drive_link",
+    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+  // resumeLink:
+  //   "https://drive.google.com/file/d/1qvwH1Nbogmsa5X3hB0lKrMfN0zNFff4d/view?usp=drive_link",
   portfolio_repository: "https://github.com/SyedHaris2/SyedHaris2.github.io",
   githubProfile: "https://github.com/SyedHaris2/",
 };
@@ -168,51 +168,51 @@ const skills = {
         },
       ],
     },
-    {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Developing knowledge and interest in creating highly scalable, production-ready models for various deep learning and statistical use cases",
-        "⚡ Enthusiastic about exploring Computer Vision and Natural Language Processing (NLP) projects and gaining hands-on experience in these domains",
-        "⚡ Strong interest in AI and new technology fields",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
-      ],
-    },
+    // {
+    //   title: "Data Science & AI",
+    //   fileName: "DataScienceImg",
+    //   skills: [
+    //     "⚡ Developing knowledge and interest in creating highly scalable, production-ready models for various deep learning and statistical use cases",
+    //     "⚡ Enthusiastic about exploring Computer Vision and Natural Language Processing (NLP) projects and gaining hands-on experience in these domains",
+    //     "⚡ Strong interest in AI and new technology fields",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "Tensorflow",
+    //       fontAwesomeClassname: "logos-tensorflow",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Keras",
+    //       fontAwesomeClassname: "simple-icons:keras",
+    //       style: {
+    //         backgroundColor: "white",
+    //         color: "#D00000",
+    //       },
+    //     },
+    //     {
+    //       skillName: "PyTorch",
+    //       fontAwesomeClassname: "logos-pytorch",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Python",
+    //       fontAwesomeClassname: "ion-logo-python",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //         color: "#3776AB",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Deeplearning",
+    //       imageSrc: "deeplearning_ai_logo.png",
+    //     },
+    //   ],
+    // },
 
     {
       title: "Cloud Infra-Architecture",
@@ -291,13 +291,13 @@ const skills = {
         "⚡ Creating the flow of application functionalities to optimize user experience",
       ],
       softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
+        // {
+        //   skillName: "Adobe XD",
+        //   fontAwesomeClassname: "simple-icons:adobexd",
+        //   style: {
+        //     color: "#FF2BC2",
+        //   },
+        // },
         {
           skillName: "Figma",
           fontAwesomeClassname: "simple-icons:figma",
@@ -305,13 +305,13 @@ const skills = {
             color: "#F24E1E",
           },
         },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
+        // {
+        //   skillName: "Adobe Illustrator",
+        //   fontAwesomeClassname: "simple-icons:adobeillustrator",
+        //   style: {
+        //     color: "#FF7C00",
+        //   },
+        // },
         {
           skillName: "Inkscape",
           fontAwesomeClassname: "simple-icons:inkscape",
@@ -413,6 +413,15 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "AWS Cloud Practitioner Essentials",
+      subtitle: "- Michelle Vaz",
+      logo_path: "aws.png",
+      certificate_link:
+        "https://drive.google.com/file/d/17RcCFLPpOlvblJ3Fdl7STf6Fa8dq18Oy/view?usp=drive_link",
+      alt_name: "AWS",
+      color_code: "#8C151599",
+    },
+    {
       title: "React Frontend",
       subtitle: "- Anton Voroniuk, Dmytro Vasyliev",
       logo_path: "udemy.jpg",
@@ -481,10 +490,10 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Internship and Volunteership",
-  // subtitle: "Work, Internship and Volunteership",
+  //  subtitle: "Internship and Volunteership",
+  //  subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "Worked with startup teams on building and deploying scalable web applications. Contributed as a Full-Stack Developer and DevOps practitioner by developing backend services, improving system architecture, and supporting cloud deployments with Docker and CI/CD workflows. Passionate about continuous learning and collaborating with developer communities.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -492,16 +501,38 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Flutter Intern",
+          title: "Junior Software Engineer",
+          company: "AMJ Cloud Technologies",
+          logo_path: "amj.jpg",
+          duration: "Apr 2025 - Present",
+          location: "Karachi, Pakistan",
+          description:
+            "Developed and maintained the company website using Next.js, TypeScript, and Tailwind CSS while building backend APIs with Node.js, Express, and MongoDB. Containerized applications with Docker and implemented CI/CD pipelines using GitHub Actions, deploying services across AWS and GCP cloud environments.",
+          color: "#3f2e53ff",
+        },
+
+        {
+          title: "Teaching Assistant ", // Add "(Volunteer)" for clarity
+          company: "Govt Islamia Sc College Computer Science Department",
+          //  company_url: "#", // Add college URL if available
+          logo_path: "colg.png",
+          duration: "May 2023 - March - 2025",
+          location: "Sukkur, Pakistan",
+          description:
+            "Mentored 50+ computer science students in programming fundamentals, achieving 95% grade improvement rate. Managed IT infrastructure reducing system downtime by 20%. Conducted technical workshops and resolved 90% of student/faculty tech issues within 24 hours.",
+          color: "#0175f1ff", //
+        },
+        {
+          title: "Software Development Intern",
           company: "MetaSense Technology",
-          // company_url: "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
           logo_path: "metas.png",
           duration: "July 2022 - Oct 2022",
-          location: "Work From Home",
+          location: "Remote",
           description:
-            "Developed mobile apps using Flutter at MetaSense Technology, integrating Firebase and optimizing performance for a better user experience.",
+            "Worked as a Software Development Intern contributing to application development, improving UI components, and collaborating with the team using version control and modern development practices.",
           color: "#000000",
         },
+
         // {
         //   title: "Associate AI Engineer",
         //   company: "Legato Health Technology",
@@ -537,38 +568,38 @@ const experience = {
         // },
       ],
     },
-    {
-      title: "Internships",
-      experiences: [
-        {
-          title: "Flutter Intern",
-          company: "MetaSense Technology",
-          // company_url: "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "metas.png",
-          duration: "July 2022 - Oct 2022",
-          location: "Work From Home",
-          description:
-            "Developed mobile apps using Flutter at MetaSense Technology, integrating Firebase and optimizing performance for a better user experience.",
-          color: "#0071C5",
-        },
-      ],
-    },
-    {
-      title: "Volunteerships",
-      experiences: [
-        {
-          title: "Teaching Assistant ", // Add "(Volunteer)" for clarity
-          company: "Govt Islamia Sc College Computer Science Department",
-          //  company_url: "#", // Add college URL if available
-          logo_path: "colg.png",
-          duration: "March 2023 - Present",
-          location: "Sukkur, Pakistan",
-          description:
-            "Mentored 50+ computer science students in programming fundamentals, achieving 95% grade improvement rate. Managed IT infrastructure reducing system downtime by 20%. Conducted technical workshops and resolved 90% of student/faculty tech issues within 24 hours.",
-          color: "#2E4053", //
-        },
-      ],
-    },
+    // {
+    //   title: "Internships",
+    //   experiences: [
+    //     {
+    //       title: "Flutter Intern",
+    //       company: "MetaSense Technology",
+    //       // company_url: "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
+    //       logo_path: "metas.png",
+    //       duration: "July 2022 - Oct 2022",
+    //       location: "Work From Home",
+    //       description:
+    //         "Developed mobile apps using Flutter at MetaSense Technology, integrating Firebase and optimizing performance for a better user experience.",
+    //       color: "#0071C5",
+    //     },
+    //   ],
+    // },
+    // {
+    //   title: "Volunteerships",
+    //   experiences: [
+    //     {
+    //       title: "Teaching Assistant ", // Add "(Volunteer)" for clarity
+    //       company: "Govt Islamia Sc College Computer Science Department",
+    //       //  company_url: "#", // Add college URL if available
+    //       logo_path: "colg.png",
+    //       duration: "March 2023 - Present",
+    //       location: "Sukkur, Pakistan",
+    //       description:
+    //         "Mentored 50+ computer science students in programming fundamentals, achieving 95% grade improvement rate. Managed IT infrastructure reducing system downtime by 20%. Conducted technical workshops and resolved 90% of student/faculty tech issues within 24 hours.",
+    //       color: "#2E4053", //
+    //     },
+    //   ],
+    // },
   ],
 };
 
@@ -629,16 +660,16 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Sukkur, Sindh, Pakistan",
-    locality: "Sukkur",
+    subtitle: "Karachi, Sindh, Pakistan",
+    locality: "Karachi",
     country: "Pakistan",
     province: "Sindh",
     postalCode: "65200",
-    streetAddress: "Sukkur",
+    streetAddress: "Karachi",
     avatar_image_path: "address_image.svg",
 
     location_map_link:
-      "https://satellites.pro/Google_plan/Sukkur_map#google_vignette",
+      "https://satellites.pro/Google_plan/Karachi_map#google_vignette",
   },
   phoneSection: {
     title: "",

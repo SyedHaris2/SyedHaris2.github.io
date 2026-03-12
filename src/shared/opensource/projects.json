@@ -8,11 +8,10 @@
       "description": "This project supports real-time user-to-user messaging with authentication and an intuitive user interface.",
       "isFork": false,
       "languages": [
-       {
+        {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         },
-        
         {
           "name": "MongoDB",
           "iconifyClass": "skill-icons:mongodb"
@@ -47,7 +46,6 @@
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         },
-        
         {
           "name": "MongoDB",
           "iconifyClass": "skill-icons:mongodb"
@@ -82,9 +80,107 @@
           "name": "OpenAI",
           "iconifyClass": "arcticons:openai-chatgpt"
         }
-        
+      ]
+    },
+    {
+      "id": "custom_1",
+      "name": "Node.js Microservices on AWS EKS",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "url": "https://github.com/SyedHaris2/aws-devops-portfolio/tree/main/projects/AWS-EKS-Terraform-Project",
+      "description": "Provisioned production-grade EKS cluster with Terraform; deployed microservices with ALB Ingress, IRSA, and auto-scaling.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Terraform",
+          "iconifyClass": "skill-icons:terraform-dark"
+        },
+        {
+          "name": "Kubernetes",
+          "iconifyClass": "skill-icons:kubernetes-dark"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "skill-icons:aws-dark"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "skill-icons:nodejs-dark"
+        }
+      ]
+    },
+    {
+      "id": "custom_2",
+      "name": "2048 Game on EKS Fargate",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "url": "https://github.com/SyedHaris2/aws-devops-portfolio/tree/main/projects/eks-fargate-2048",
+      "description": "Deployed serverless Kubernetes workload on EKS Fargate with ALB and automated cost-optimized cleanup.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Kubernetes",
+          "iconifyClass": "skill-icons:kubernetes-dark"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "skill-icons:aws-dark"
+        }
+      ]
+    },
+    {
+      "id": "custom_3",
+      "name": "Production 3-Tier VPC Infrastructure",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "url": "https://github.com/SyedHaris2/aws-devops-portfolio/tree/main/projects/vpc-three-tier",
+      "description": "Built modular 3-tier VPC across multiple AZs with ALB, RDS Multi-AZ, NAT, security groups, and CloudWatch monitoring.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Terraform",
+          "iconifyClass": "skill-icons:terraform-dark"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "skill-icons:aws-dark"
+        }
+      ]
+    },
+    {
+      "id": "custom_4",
+      "name": "MERN App Prod Deployment",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "url": "https://github.com/SyedHaris2/aws-devops-portfolio/tree/main/projects/mern-todo-aws",
+      "description": "Implemented CI/CD pipelines: frontend on S3+CloudFront, backend on EC2 Docker with health checks.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AWS",
+          "iconifyClass": "skill-icons:aws-dark"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "skill-icons:docker"
+        },
+        {
+          "name": "GitHub Actions",
+          "iconifyClass": "skill-icons:githubactions-dark"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "skill-icons:mongodb"
+        },
+        {
+          "name": "ExpressJS",
+          "iconifyClass": "skill-icons:expressjs-dark"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "skill-icons:react-dark"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "skill-icons:nodejs-dark"
+        }
       ]
     }
-    
   ]
 }
